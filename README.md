@@ -1,4 +1,5 @@
 # c-
+```csharp
 namespace WinFormsApp1
 {
     public partial class Form1 : Form
@@ -88,3 +89,4 @@ namespace WinFormsApp1
         }
     }
 }
+```
